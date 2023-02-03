@@ -1,0 +1,77 @@
+.game-container {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.game-container h3 {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.line {
+  margin: 60px 0;
+  width: 100%;
+  border-top: 2px solid var(--card-bg-color);
+}
+
+.img-container {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-bottom: 60px;
+}
+
+.img-container img {
+  width: 80%;
+  border-radius: 10px;
+}
+
+.image {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+  width: 100%;
+}
+
+.image p {
+  font-size: 1.2rem;
+  text-transform: uppercase;
+}
+
+.image input {
+  cursor: pointer;
+}
+
+@media screen and (max-width: 800px) {
+  select {
+    width: 100%;
+  }
+
+  .image p {
+    font-size: 0.7rem;
+  }
+}
+
+.songStyles {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  flex-direction: column;
+}
+
+.radioStyles {
+  display: inline-flex;
+
+  margin-left: 90px;
+  width: 100%;
+  margin-bottom: 60px;
+  align-items: center;
+}
+
+.home-btn {
+  margin: 0 auto 20px;
+  text-decoration: none;
+  list-style: none;
+}
