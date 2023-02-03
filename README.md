@@ -16,8 +16,8 @@ For the **Game** page, depending on how the user configured their own game will 
 4. Spotify API
 
 <hr />
-<img  alt="Screen Shot 1" src="./assets/screen1.png">
-<img  alt="Screen Shot 1" src="./assets/screen2.png">
-<img  alt="Screen Shot 1" src="./assets/screen3.png">
-<img  alt="Screen Shot 1" src="./assets/screen4.png">
-<img  alt="Screen Shot 1" src="./assets/screen5.png">
+<img  alt="Screen Shot 1" src="./src/assets/screen1.png">
+<img  alt="Screen Shot 1" src="./src/assets/screen2.png">
+<img  alt="Screen Shot 1" src="./src/assets/screen3.png">
+<img  alt="Screen Shot 1" src="./src/assets/screen4.png">
+<img  alt="Screen Shot 1" src="./src/assets/screen5.png">
